@@ -1,4 +1,0 @@
-{
-    "image": "ghcr.io/aristanetworks/aclabs/dev:latest",
-    "containerUser": "vscode"
-}
